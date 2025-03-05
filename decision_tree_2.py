@@ -3,7 +3,7 @@
 # FILENAME: decision_tree_2.py
 # SPECIFICATION: This program creates, utilizes, and trains decision trees and evaluates their performance.
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: 6-7 hours approximately
+# TIME SPENT: 7 hours approximately
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
