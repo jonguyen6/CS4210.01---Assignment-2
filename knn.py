@@ -3,7 +3,7 @@
 # FILENAME: knn.py
 # SPECIFICATION: This program LOO-CV error rate for a 1NN classifier.
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: 6-7 hours approximately
+# TIME SPENT: 7 hours approximately
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
@@ -66,8 +66,3 @@ for i in db:
 #--> add your Python code here
 error_rate = error_count / len(db)
 print(f"LOO-CV error rate: {error_rate:.4f}")
-
-
-
-
-
